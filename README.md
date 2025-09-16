@@ -17,7 +17,7 @@ Loyihada SQL orqali ma’lumotlar tahlil qilindi, Power BI orqali esa interaktiv
 ---
 
 ## 📂 Repository Structure
-HR-Attrition-Analysis/
+## HR-Attrition-Analysis/
 │
 ├── data/
 │ └── hr_empa.sql # Raw SQL dataset
