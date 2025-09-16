@@ -17,20 +17,20 @@ Loyihada SQL orqali ma’lumotlar tahlil qilindi, Power BI orqali esa interaktiv
 ---
 
 ## 📂 Repository Structure
-## HR-Attrition-Analysis/
+# HR-Attrition-Analysis/
 │
-├── data/
+#├── data/
 │ └── hr_empa.sql # Raw SQL dataset
 │
-├── sql_queries/
+#├── sql_queries/
 │ └── analysis_queries.sql # All queries used for analysis
 │
-├── powerbi/
+#├── powerbi/
 │ └── hr_attrition.pbix # Power BI dashboard file
 │
-├── images/
+#├── images/
 │ └── dashboard.png # Dashboard screenshots
 │
-├── README.md # Project overview (this file)
+#├── README.md # Project overview (this file)
 │
 └── insights.md # Key Findings and Insights
